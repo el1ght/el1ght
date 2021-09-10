@@ -36,11 +36,10 @@
 <br>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/el1ght">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=el1ght" />
+<a href="https://github.com/el1ght&v=2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=el1ght&v=2" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elight" />
