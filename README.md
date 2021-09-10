@@ -1,4 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media1.giphy.com/media/bdGdF94ymhiYo/giphy.gif?cid=ecf05e476pqvazqg36lt3g014jk6up6hgfctkmvlr8jkxoai&rid=giphy.gif&ct=g" width="70px">
+
 
 ### Languages and Tools:
 
@@ -29,21 +30,14 @@
 
 <p align="center"><a href="https://media4.giphy.com/media/8oPkn7Hl79J6g/giphy.gif?cid=ecf05e47mfp70mgprs2at9ifvrkn0fkln8ez52p07dcre0m8&rid=giphy.gif&ct=g"><img src="https://media4.giphy.com/media/8oPkn7Hl79J6g/giphy.gif?cid=ecf05e47mfp70mgprs2at9ifvrkn0fkln8ez52p07dcre0m8&rid=giphy.gif&ct=g" /></a></p>
 
-| <a href="https://github.com/kittinan/spotify-github-profile"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=3n55hhjf3dsn7tl255g0cjivf&cover_image=true&theme=default" /></a> | <a href="https://github.com/el1ght/el1ght"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el1ght&repo=el1ght&theme=great-gatsby&border_color=000000" /></a> | <a href="https://github.com/el1ght/el1ght"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el1ght&repo=el1ght&theme=great-gatsby&border_color=000000" /></a> |
+| <a href="https://github.com/kittinan/spotify-github-profile"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=3n55hhjf3dsn7tl255g0cjivf&cover_image=true&theme=default" /></a> | <a href="https://github-readme-stats.vercel.app/api/wakatime?username=el1ght&v=2"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=el1ght&v=2" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elight" /></a> |
 | ------------- | ------------- | ------------- |
 
 <br>
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/el1ght&v=2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=el1ght&v=2" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elight" />
-</a>
+| <a href="https://github.com/el1ght/el1ght"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el1ght&repo=el1ght&theme=great-gatsby&border_color=000000" /></a> | <a href="https://github.com/el1ght/el1ght"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el1ght&repo=el1ght&theme=great-gatsby&border_color=000000" /></a> | <a href="https://github.com/el1ght/el1ght"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=el1ght&repo=el1ght&theme=great-gatsby&border_color=000000" /></a> |
+| ------------- | ------------- | ------------- |
 
 <br>
 
