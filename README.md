@@ -7,3 +7,5 @@
 | ------------- | ------------- |
 
 <a href="https://activity-graph.herokuapp.com/graph?username=el1ght&bg_color=000000&color=FFCF00&line=FFAE02&point=ffffff&area=true&hide_border=true"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=el1ght&bg_color=000000&color=FFAE02&line=FFAE02&point=ffffff&area=true&hide_border=true" /></a>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el1ght&theme=juicyfresh&no-bg=true&no-frame=true"></a></p>
