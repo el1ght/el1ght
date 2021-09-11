@@ -7,8 +7,3 @@
 | ------------- | ------------- |
 
 <a href="https://activity-graph.herokuapp.com/graph?username=el1ght&bg_color=000000&color=FFCF00&line=FFAE02&point=ffffff&area=true&hide_border=true"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=el1ght&bg_color=000000&color=FFAE02&line=FFAE02&point=ffffff&area=true&hide_border=true" /></a>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-<a href="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
