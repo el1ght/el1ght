@@ -9,6 +9,6 @@
 
 <a href="https://www.codewars.com/users/el1ght/badges/large"></a>
 
-<a href="https://www.codewars.com/users/el1ght/badges/large&bg_color=000000&color=FFCF00&line=FFAE02&point=ffffff&area=true&hide_border=true"><img align="center" src="https://www.codewars.com/users/el1ght/badges/large&bg_color=000000&color=FFAE02&line=FFAE02&point=ffffff&area=true&hide_border=true" /> </a>
+<a href="https://www.codewars.com/users/el1ght/badges/large"><img align="center" src="https://www.codewars.com/users/el1ght/badges/large" /> </a>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el1ght&theme=juicyfresh&no-bg=true&no-frame=true"></a></p>
